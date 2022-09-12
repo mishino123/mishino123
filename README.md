@@ -18,13 +18,4 @@ This is the place where I opensource stuff and break things 🤣
 🔗  Connect with me
 ✉️  jicorreac@unal.edu.co
 
-📊  This week I spent my time on
-Hi , I am Ovindu Wijethunge
-Machine Learning Engineer | Data Scientist
 
-hack_ovindu lin_ovindu kaggle_ovindu insta_ovindu fb_ovindu
-
-Hello, I am Ovindu Wijethunge a final year undergraduate from University Of Moratuwa, Sri-Lanka (" Wisdom is all wealth ").
-a passionate self-learner and a Machine Learning Engineer   ,
-who is obsessed with Data science and always looking to find patterns of which are hidden in the data
-Thought : "Life is full of choices…choose wisely!” 
