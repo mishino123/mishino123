@@ -18,9 +18,7 @@
 - 👯 I’m looking to collaborate on React, redux, sequalize
 - 💬 Ask me about Programming or react and redux
 - 📫 I am also a technical writer at Medium 
--  📰 Articles: 
-	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
-	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
+
 
 <p>Connect with me on
 <br>	
