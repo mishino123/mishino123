@@ -1,13 +1,12 @@
-Hi there
+Hi there, I am Jose
 
 This is the place where I opensource stuff and break things 🤣
 
     🔭  I’m currently working on something cool 😉
-    🌱  I’m currently learning Flutter, Go
-    💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-    📫  How to reach me: @gautamkrishnar or fosstodon.org/@gkr
-    👨‍💻  Read more about my projects at gautamkrishnar.com
-    ⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: GKRXtreme)
+    🌱  I’m currently learning React and front end tecnologyes
+    💬  Ask me about anything related to Javascript/React/Express/Flask
+    📫  How to reach me: jicorreac@unal.edu.co
+   
 
 📕  Latest Blog Posts
 
@@ -17,7 +16,6 @@ This is the place where I opensource stuff and break things 🤣
     God Mode in browsers: document.designMode = "on"
 
 🔗  Connect with me
-
-gautamkrishnar gautamkrishnar gautamkrishnar 4214976 gautamkrishnar
+✉️  jicorreac@unal.edu.co
 
 📊  This week I spent my time on
