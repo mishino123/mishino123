@@ -5,7 +5,7 @@
 
 <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/mishino123?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Jose!;I'm+a+Full+Stack+Developer...;I'm+also+Mechanical+Engineer;And+I'm+a+proud+Colombian+🇵🇰)](https://git.io/typing-svg)
 
