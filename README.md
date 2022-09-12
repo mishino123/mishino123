@@ -13,11 +13,10 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
+- 🔭 I’m currently working on front end  Projects
+- 🌱i have +6 months from experience in projects using react, redux, sequelize. my preference is working in front end technologies
+- 👯 I’m looking to collaborate on React, redux, sequalize
+- 💬 Ask me about Programming or react and redux
 - 📫 I am also a technical writer at Medium 
 -  📰 Articles: 
 	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
@@ -27,7 +26,7 @@
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
+<a target="_blank" href="mailto:jicorreac@unal.edu.co"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://twitter.com/ahmadshaikhk"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
